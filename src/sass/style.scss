@@ -1,0 +1,34 @@
+/*
+Template Name: Personal web
+Version: 1.0.0
+Author: Benjamin Pelto
+Author URI: https://github.com/devbaze
+Description: Personal Portfolio & Resume HTML Template
+
+[TABLE OF CONTENTS]
+
+01. Base
+02. Typography
+03. Header
+04. Skills
+05. Portfolio
+06. Clients
+07. Helper
+08. Buttons
+09. Preloader
+10. Bootstrap Elements
+11. Theme Elements
+12. Slick Settings
+13. Responsive Settings
+
+*/
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i&display=swap&subset=cyrillic-ext');
+@import "files/mixins";
+@import "files/base";
+@import "files/header";
+@import "files/main";
+@import "files/buttons";
+@import "files/elements";
+@import "files/slick";
+@import "files/responsive";
