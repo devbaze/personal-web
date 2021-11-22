@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react'
 import ServiceItem from '../components/ServiceItem';
-//import { backgroundImageDataAttribute, spacerDataAttribute } from '../custom';
+import { backgroundImageDataAttribute, spacerDataAttribute } from '../custom';
 
 
 function Services() {
